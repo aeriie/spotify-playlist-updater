@@ -85,6 +85,7 @@ An automatic playlist updater using Spotify API and Authorization code flow in P
 ## Thank you
 
 If you enjoyed my project, please feel free to leave tips on my [Ko-Fi. https://ko-fi.com/autumntillman](https://ko-fi.com/autumntillman)
+or [Paypal](https://www.paypal.com/paypalme/autterpop?locale.x=en_US).
 
 ## Help
 
