@@ -37,7 +37,7 @@ An automatic playlist updater using Spotify API and Authorization code flow in P
 ##### Spotipy
 * Python library for the Spotify Web API
 * [Installation Link](https://spotipy.readthedocs.io/en/2.19.0/#installation)
-* py -m pip install spotipy --upgrade
+* For Windows, you can run ``` py -m pip install spotipy --upgrade ``` in CMD to install. 
 
 
 ### Set Up
@@ -63,15 +63,15 @@ An automatic playlist updater using Spotify API and Authorization code flow in P
 
 ##### Adding your Playlist information
 * Right click \spotify-playlist-updater.py from the working directory, and select "Edit with IDLE"
-* Put your Playlist Image path in place of: ```` "C:\\Users\\You\\YourWorkingDirectory\\Data\\PlaylistPhoto.jpeg" ````
-* Put your Spotify Username in place of: ```` 'username' ````
-* Put your Client ID in place of ```` 'clientid' ````
-* Put your Client Secret in place of ```` 'clientsecret' ````
-* Put your Web Domain Address in place of ```` 'http://yourdomain.com' ````
-* Put your Spotify Playlist Link in place of ```` 'https://open.spotify.com/playlist/yourplaylist' ````
-* Put your Playlist Description in place of ```` 'Playlist Name' ````
-* Put your Playlist Description in place of ```` 'Playlist Description' ````
-* Save the script. 
+   * Put your Playlist Image path in place of: ```` "C:\\Users\\You\\YourWorkingDirectory\\Data\\PlaylistPhoto.jpeg" ````
+   * Put your Spotify Username in place of: ```` 'username' ````
+   * Put your Client ID in place of ```` 'clientid' ````
+   * Put your Client Secret in place of ```` 'clientsecret' ````
+   * Put your Web Domain Address in place of ```` 'http://yourdomain.com' ````
+   * Put your Spotify Playlist Link in place of ```` 'https://open.spotify.com/playlist/yourplaylist' ````
+   * Put your Playlist Description in place of ```` 'Playlist Name' ````
+   * Put your Playlist Description in place of ```` 'Playlist Description' ````
+* **Save the script once your changes are made.** 
 
 
 
