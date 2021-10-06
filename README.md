@@ -1,12 +1,12 @@
 # Spotify Playlist Updater
 
 
-#### An automatic playlist updater using Spotify API and Authorization code flow in Python to update a Playlist on a repeating time interval. 
+#### A Python script to update Spotify Playlist data every 5 minutes.  
 
 
 ## Description
 
-Spotify playlist curators have been having their playlists reported by bots on a consistent basis, removing their Playlist photo, Title and Description. This script updates your Spotify playlist every x minutes to combat this. 
+An automatic playlist updater using Spotify API and Authorization code flow in Python to update a Playlist on a repeating time interval. 
 
 ## Getting Started
 #### You will need Python to execute the script:
