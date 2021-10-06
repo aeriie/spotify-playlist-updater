@@ -82,6 +82,9 @@ An automatic playlist updater using Spotify API and Authorization code flow in P
 * The script will restart if it runs into a timeout to prevent it from failing during an internet hiccup. 
     * If you have an unstable internet connection and run into issues, try removing the ```` continue ```` statement. 
 
+## Thank you
+
+If you enjoyed my project, please feel free to leave tips on my [Ko-Fi. https://ko-fi.com/autumntillman](https://ko-fi.com/autumntillman)
 
 ## Help
 
