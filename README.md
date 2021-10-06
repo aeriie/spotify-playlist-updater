@@ -46,7 +46,7 @@ An automatic playlist updater using Spotify API and Authorization code flow in P
 
 * Install the dependencies listed above. 
 * Choose a location on your device (I'll refer to this as the working directory)
-* Download the latest release of Spotify Playlist Updater to the working directory. 
+* Download the latest release of [spotify-playlist-updater](https://github.com/aeriie/spotify-playlist-updater/) to the working directory. 
 * Save your playlist photo (if applicable) in the ``data`` folder of the working directory
     * The photo must be 150KB or less. If it is too large, resize the photo. 
     * You can use this website to resize your image: https://www.resizepixel.com/reduce-image-in-kb/
