@@ -34,6 +34,7 @@ def func():
 
     print("Playlist updated")
 
+func()
 schedule.every(5).minutes.do(func)
   
 while True:
