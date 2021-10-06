@@ -89,6 +89,12 @@ or [Paypal](https://www.paypal.com/paypalme/autterpop?locale.x=en_US).
 
 ## Help
 
+* If you get an error that "Read timed out. (read timeout=5)", restart the script. 
+* If your script doesnt get past "Starting Playlist Updater", run the script using IDLE:
+   * Right click spotify-playlist-updater and click Edit with IDLE
+   * Click F5 to run the script
+      * Let the script run. Any errors will be listed as the script encounters them. 
+
 To report issues, create a new issue on Github or email [autumn@videogamelofi.com](mailto:autumn@videogamelofi.com)
 
 ## Authors
