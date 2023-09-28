@@ -114,7 +114,7 @@ To report code issues, create a new issue on Github or reach out to me directly 
 * 0.1
     * Initial Release
  
-. 02
+* 0.2
    * Added improved reliability for schedule function
    * Cleaned up code
 
