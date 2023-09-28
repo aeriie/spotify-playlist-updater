@@ -34,10 +34,9 @@ def func():
 
     print("Playlist updated")
 
-func()
-schedule.every(5).minutes.do(func)
-  
-while True:
-    schedule.run_pending()
-    time.sleep(30)
-    continue 
+def func2():
+    schedule.every(1).minutes.do(func)
+    return schedule.CancelJob
+
+#You can replace minutes with seconds, hours, etc
+schedule.every(1).minutes.do(func2)
