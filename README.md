@@ -1,7 +1,7 @@
 # Spotify Playlist Updater
 
 
-#### A Python script to update Spotify Playlist data using timed intervals.  
+#### A Python script to update Spotify Playlist data (descrption, photo) using timed intervals.  
 
 
 ## Description
