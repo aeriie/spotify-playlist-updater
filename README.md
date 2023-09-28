@@ -1,7 +1,7 @@
 # Spotify Playlist Updater
 
 
-#### A Python script to update Spotify Playlist data every 5 minutes.  
+#### A Python script to update Spotify Playlist data using timed intervals.  
 
 
 ## Description
@@ -87,6 +87,12 @@ An automatic playlist updater using Spotify API and Authorization code flow in P
 If you enjoyed my project, please feel free to leave tips on my [Ko-Fi. https://ko-fi.com/autumntillman](https://ko-fi.com/autumntillman)
 or [Paypal](https://www.paypal.com/paypalme/autterpop?locale.x=en_US).
 
+## FAQ
+* How do I schedule this to run at a set time every day instead of all the time?
+   * replace schedule.every(1).minutes.do(func2) with schedule.every().day.at('13:56').do(sched_job)
+   * note that time is based on military time (24 hour clock)
+   * you can replace 'day' with a specific day of the week as well
+
 ## Help
 
 * If you get an error that "Read timed out. (read timeout=5)", restart the script. 
@@ -95,7 +101,7 @@ or [Paypal](https://www.paypal.com/paypalme/autterpop?locale.x=en_US).
    * Click F5 to run the script
       * Let the script run. Any errors will be listed as the script encounters them. 
 
-To report issues, create a new issue on Github or email [autumn@videogamelofi.com](mailto:autumn@videogamelofi.com)
+To report issues, create a new issue on Github or email [autumntillman0@gmail.com](mailto:autumntillman0@gmail.com)
 
 ## Authors
 
@@ -105,4 +111,7 @@ To report issues, create a new issue on Github or email [autumn@videogamelofi.co
 
 * 0.1
     * Initial Release
+ 
+. 02
+   * Added improved reliability for schedule function
 
